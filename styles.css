@@ -1,0 +1,26 @@
+.important {
+  color: purple;
+}
+.unimportant {
+  color: black;
+}
+.important {
+  color: purple;
+}
+.unimportant {
+  color: black;
+}
+img {
+  float: bottom;
+}
+div {
+  width: 1650px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-color: pink;
+  border-radius
+}
+body {
+  font-family: sans-serif;
+}
